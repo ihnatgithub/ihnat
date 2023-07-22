@@ -17,4 +17,4 @@ pip install foobar
 import foobar
 
 # returns 'words'
-foobar.pluralize('word')
+foobar.pluralize
