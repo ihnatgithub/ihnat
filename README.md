@@ -3,8 +3,6 @@
 # zlata
 # zksynx
 # dmail
-# shiro
-# takito
 
 Foobar is a Python library for dealing with word pluralization.
 
