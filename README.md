@@ -18,6 +18,7 @@ pip install foobar
 # Usage art pontem
 
 ```python
+```zklite
 import foobar
 
 # returns 'words'
