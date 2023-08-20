@@ -2,8 +2,7 @@
 # Footbar
 # zlata
 # zksynx
-# dmail
-#footp
+# ur
 
 Foobar is a Python library for dealing with word pluralization.
 
