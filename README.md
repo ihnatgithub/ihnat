@@ -4,7 +4,8 @@
 # zksynx
 # ur
 # rut
-# bizhako
+# bizha
+# tuoy
 
 Foobar is a Python library for dealing with word pluralization.
 
