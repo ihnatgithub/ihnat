@@ -5,7 +5,8 @@
 # ur
 # rut
 # bizha
-# tuoy
+# tuo
+# toys
 
 Foobar is a Python library for dealing with word pluralization.
 
